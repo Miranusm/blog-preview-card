@@ -32,7 +32,7 @@ body {
     background-color: white;
     border-radius: 16px;
     box-shadow: 5px 5px 0 #000000aa;
-    width: 320px;
+    width: 350px;
     overflow: hidden;
     transition: tranform 0.3s;
 }
@@ -70,7 +70,7 @@ body {
 }
 
 .title { 
-    color: #f4cd4c;
+    color: #0000;
     font-weight: bold;
     font-size: 1.25rem;
     margin: 8px 0;
